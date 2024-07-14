@@ -50,7 +50,6 @@ build-iPhoneSimulator/
 .rvmrc
 .DS_Store
 
-.vscode/
 __pycache__/
 files/__pycache__/
 .pytest_cache
